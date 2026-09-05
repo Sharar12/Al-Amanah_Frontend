@@ -98,7 +98,7 @@ The frontend is deployed on Vercel and connects to the Laravel backend hosted on
 ### Frontend
 
 ```text
-https://al-amanah-frontend-chi.vercel.app
+https://al-amanah-frontend-mqgp8m5d6-sharar12s-projects.vercel.app
 ```
 
 ### Backend API

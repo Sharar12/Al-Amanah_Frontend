@@ -237,3 +237,5 @@ The backend is responsible for the API, authentication, business logic, persiste
 ## License
 
 This project is distributed under the license included in the repository.
+
+<!-- README refresh: documentation-only change. -->
